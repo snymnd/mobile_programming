@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_50">#FF1CA0E1</color>
+    <color name="blue_100">#FF116087</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0E0E</color>
+
+    <color name="primary_30">#60BDEA</color>
+    <color name="primary_50">#1CA0E1</color>
+
+    <color name="neutral_50">#919191</color>
+    <color name="neutral_60">#797979</color>
+    <color name="neutral_80" >#484848</color>
+
+
+
+</resources>

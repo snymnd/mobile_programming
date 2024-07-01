@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273542467779",
+    "project_id": "hargain-f7a81",
+    "storage_bucket": "hargain-f7a81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273542467779:android:b99a6cb65c0447fdbe9276",
+        "android_client_info": {
+          "package_name": "com.bangkit.hargain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273542467779-oto45kmng8fkoag2fvghbj6m95k6rosr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmSsUPhC82rkspgcjm8bISURIhG_ZbjfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273542467779-oto45kmng8fkoag2fvghbj6m95k6rosr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

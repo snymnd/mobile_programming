@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">HargaIn</string>
+    <string name="button_text_ok">OK</string>
+    <string name="action_sign_in" translatable="false">Sign in</string>
+    <string name="password">Password</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_home">Home</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Rp%s</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="sign_out" translatable="false">Sign out</string>
+    <string name="email">Email</string>
+    <string name="category_image">Category image</string>
+    <string name="category">Category</string>
+    <string name="add_product">Add Product</string>
+    <string name="brand">Brand</string>
+    <string name="description">Description</string>
+    <string name="current_price">Current Price</string>
+    <string name="save">Save</string>
+    <string name="cost">Cost</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="image_is_required">Image is required</string>
+    <string name="update_product">Update Product</string>
+    <string name="product_not_found">Product not found</string>
+    <string name="sales_prediction">Sales Prediction</string>
+    <string name="profit_prediction">Profit Prediction</string>
+    <string name="selling_price">Selling Price</string>
+    <string name="no_prediction_yet">No prediction yet</string>
+    <string name="total_sales">Total Sales</string>
+    <string name="total_profit">Total Profit (in Rupiah)</string>
+</resources>
